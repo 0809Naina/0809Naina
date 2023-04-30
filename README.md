@@ -1,6 +1,7 @@
+[![MasterHead](https://dribbble.com/shots/5504725/attachments/5504725-Data-Analytics-Animation-Header?mode=media)
 <h1 align="center">Hi 👋, I'm Naina Sahu</h1>
 <h3 align="center">I am Data Science Enthusiast and passionate about Data Analytics and Insights.</h3>
-<image align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
+<image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 - 🌱 I’m currently learning **BTech 2nd year on Computer Science with a specialization of Data Science**
 
