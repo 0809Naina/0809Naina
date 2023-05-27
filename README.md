@@ -1,13 +1,17 @@
-[![MasterHead](https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif)]
+[![MasterHead](https://www.smsu.edu/resources/webspaces/academics/programs/mathematics/data-science-hero.jpg)
 <h1 align="center">Hi 👋, I'm Naina Sahu</h1>
 <h3 align="center">I am Data Science Enthusiast and passionate about Data Analytics and Insights.</h3>
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-- 🌱 I’m currently learning **BTech 2nd year on Computer Science with a specialization of Data Science**
+- 🌱 I’m currently persuing **Btech CSE Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/0809Naina](https://github.com/0809Naina)
+- 👯 I’m looking to collaborate on **Data Science Companies**
+
+- 👨‍💻 All of my projects are available at [https://github.com/0809Naina]
 
 - 📫 How to reach me **naina0809sahu@gmail.com**
+
+- 📄 Know about my experiences https://drive.google.com/file/d/1IdV5vhP_stuZgqj4yhL3DhgVwVE1buxl/view?usp=share_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
